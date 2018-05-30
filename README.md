@@ -1,4 +1,4 @@
-# Modern Front layout of a Booking App made with Flexbox, Advanced CSS3 and Sass - RWD, cross-browser, esthetic
+# Modern Front layout of a Booking App made with Flexbox, Advanced CSS3 and Sass - RWD, cross-browser, esthetical
 
 Built with:
 - Flexbox
