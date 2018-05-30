@@ -1,9 +1,11 @@
-# Front layout of a booking app made with Flexbox and Advanced CSS
+# Modern Front layout of a Booking App made with Flexbox, Advanced CSS3 and Sass - RWD, cross-browser, esthetic
 
 Built with:
-- Advanced CSS3
 - Flexbox
-- Responsive Web Design and Cross-Browsers
-- Sass / Node-sass
+- Advanced CSS3 features
+- BEM
+- Responsive Web Design, cross-browsers
+- Sass, node-sass
+- High esthetic
 
 https://www.cywinski.pro/flexbox/hotelApp/
